@@ -1,4 +1,5 @@
 # 🌊 Ocean Flight (WASD + Mouse)
+<img width="1352" height="658" alt="image" src="https://github.com/user-attachments/assets/d23be79b-40d6-4a95-a97a-554d8678cfd1" />
 
 В программе можно летать над красивым океаном. Управление: WASD + мышь.
 
